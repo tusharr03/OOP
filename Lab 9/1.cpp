@@ -1,0 +1,1 @@
+//write a program to display the data of two different types using function template with  multiple arguments?

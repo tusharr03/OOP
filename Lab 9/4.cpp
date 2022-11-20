@@ -1,0 +1,1 @@
+//write a program to demonstrate multiple catch and catch all exception

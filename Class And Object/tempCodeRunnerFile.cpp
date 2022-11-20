@@ -1,0 +1,1 @@
+totalmarks+=marks[i]; 
